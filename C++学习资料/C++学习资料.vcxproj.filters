@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\01_C++基础">
+      <UniqueIdentifier>{72e7bedb-69f7-4974-a37c-14ffbaad85ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\00_练习">
+      <UniqueIdentifier>{360a9639-ea15-42b3-a263-2b333a523143}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\02_STL库">
+      <UniqueIdentifier>{d5e1d097-700d-41fd-b5f6-f6386d7f3053}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03_文件读写">
+      <UniqueIdentifier>{a09391e4-af69-4630-af58-f2571dd3f0c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04_字符串流">
+      <UniqueIdentifier>{aa94f7c1-1cad-42f8-ab8a-9a810a516926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05_C++11新特性">
+      <UniqueIdentifier>{df85221b-808b-4bb9-8fa4-0c826fcb77e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\06_C++17新特性">
+      <UniqueIdentifier>{9e7db9d9-e218-4525-a372-369a6e90cfc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\07_C++20新特性">
+      <UniqueIdentifier>{93e539e4-9deb-44ce-bc43-a85d39971d04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\08_C++多线程">
+      <UniqueIdentifier>{2171165e-c03c-4738-9634-3bf0e6ef09d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C++学习资料.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BUG_ALL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="000_第一个C++程序.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="001_using.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="002_cin.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="003_数据类型.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="004_强制类型转换.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="005_随机数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="006_数组简洁for循环.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="007_gets.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="008_string.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="009_引用.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="010_引用的使用场景.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="011_函数传参默认值.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="012_函数形参可变参数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="013_内敛函数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="014_函数重载.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="015_字符串的指针.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="016_nullptr.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="017_结构体默认值.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="018_结构体函数成员.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="019_按位与.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="020_类的定义.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="022_赋值构造函数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="021_构造函数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="026_静态成员变量与方法.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="027_常成员函数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="024_new_and_delete.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="025_成员变量与成员函数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="028_this指针.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="029_友元函数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="030_友元类.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="032_继承与派生.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="031_运算符重载.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="023_析构函数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="033_继承的构造与析构.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="037_多态概念与构成条件.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="036_菱形继承与虚继承.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="039_虚函数表动态绑定_覆盖操作对比.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="041_try_catch_throw.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="038_虚函数与虚析构.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="035_多继承.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="040_抽象基类和纯虚函数.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="042_自定义异常.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="034_基类与派生类的构造与析构的调用顺序.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="044_函数模版.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="045_类模版.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="043_嵌套类与局部类.cpp">
+      <Filter>源文件\01_C++基础</Filter>
+    </ClCompile>
+    <ClCompile Include="demo_01_goto_10.cpp">
+      <Filter>源文件\00_练习</Filter>
+    </ClCompile>
+    <ClCompile Include="demo_11_goto_20.cpp">
+      <Filter>源文件\00_练习</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_001_string_遍历与拷贝.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_002_vector_ 定义与初始化和增加函数.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_003_vector_删除与判断大小函数.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_004_stack_概念与初始化和常用方法.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_005_queue_初始化与常用方法と练习.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_006_deque_初始化与构造函数和添加与删除.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_007_list_初始化与增删改查.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_008_list_排序と练习.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_009_set_基本使用.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_010_multiset_基本使用.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_011_pair_基本使用.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_012_map_基本使用.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_013_multimap_基本使用.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_014_[for_each]_[transform]_遍历容器算法.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_015_常用查找算法.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_016_常用拷贝与替换算法.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_017_常用算数生成算法.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_018_常用集合算法.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+    <ClCompile Include="file_01_基本操作.cpp">
+      <Filter>源文件\03_文件读写</Filter>
+    </ClCompile>
+    <ClCompile Include="file_02_更多读取函数%28方法%29.cpp">
+      <Filter>源文件\03_文件读写</Filter>
+    </ClCompile>
+    <ClCompile Include="01_字符串流的常用操作.cpp">
+      <Filter>源文件\04_字符串流</Filter>
+    </ClCompile>
+    <ClCompile Include="001_auto.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="002_decltype.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="003_右值引用.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="004_匿名函数.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="005_智能指针.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="006_可变参数模版.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="007_默认成员函数控制.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="008_STL_array.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="009_STL_forward_list.cpp">
+      <Filter>源文件\05_C++11新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="001_折叠表达式.cpp">
+      <Filter>源文件\06_C++17新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="002_编译期if表达式.cpp">
+      <Filter>源文件\06_C++17新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="003_auto占位的非类型模板形参.cpp">
+      <Filter>源文件\06_C++17新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="004_属性列表.cpp">
+      <Filter>源文件\06_C++17新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="005_variant.cpp">
+      <Filter>源文件\06_C++17新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="006_optional.cpp">
+      <Filter>源文件\06_C++17新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="007_filesystem.cpp">
+      <Filter>源文件\06_C++17新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="001_模块.cpp">
+      <Filter>源文件\07_C++20新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="my_module.ixx">
+      <Filter>源文件\07_C++20新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="002_三路比较运算符.cpp">
+      <Filter>源文件\07_C++20新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="003_ranges.cpp">
+      <Filter>源文件\07_C++20新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="004_格式化.cpp">
+      <Filter>源文件\07_C++20新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="005_并发.cpp">
+      <Filter>源文件\07_C++20新特性</Filter>
+    </ClCompile>
+    <ClCompile Include="01_线程库类的使用.cpp">
+      <Filter>源文件\08_C++多线程</Filter>
+    </ClCompile>
+    <ClCompile Include="02_互斥锁.cpp">
+      <Filter>源文件\08_C++多线程</Filter>
+    </ClCompile>
+    <ClCompile Include="003_条件变量.cpp">
+      <Filter>源文件\08_C++多线程</Filter>
+    </ClCompile>
+    <ClCompile Include="004_原子变量.cpp">
+      <Filter>源文件\08_C++多线程</Filter>
+    </ClCompile>
+    <ClCompile Include="stl_0144_优先队列.cpp">
+      <Filter>源文件\02_STL库</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
